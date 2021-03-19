@@ -1,5 +1,4 @@
 flask
-os
 flask_login
 wtforms
 flask_wtf
